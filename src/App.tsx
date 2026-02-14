@@ -21,11 +21,11 @@ export default function Page() {
       "But :*(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to nathan's ghost",
+      "ok ur talking with sujan's ghost",
       "please babe",
       "Jau mampakha nisthurii:(",
       "Pleaseeeee pleaseeee",
-      "No :(",
+      "No :( 😭😭😭😭",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
